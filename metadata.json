@@ -1,0 +1,7 @@
+{
+  "name": "Usana Vision Board Builder",
+  "description": "An AI-powered vision board builder for Usana business partners to visualize their dreams and action plans with cost estimation and scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
